@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-IOS-Swift-SpeechToText/Pods-IOS-Swift-SpeechToText-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/Particle-SDK/Particle_SDK.framework

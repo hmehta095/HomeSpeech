@@ -1,0 +1,6 @@
+framework module Pods_IOS_Swift_SpeechToText {
+  umbrella header "Pods-IOS-Swift-SpeechToText-umbrella.h"
+
+  export *
+  module * { export * }
+}
