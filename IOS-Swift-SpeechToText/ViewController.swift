@@ -24,6 +24,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var startStopBtn: UIButton!
     @IBOutlet weak var textView: UITextView!
+    
+    
    
     private var speechRecognizer = SFSpeechRecognizer(locale: Locale.init(identifier: "en-US")) //1
     private var recognitionRequest: SFSpeechAudioBufferRecognitionRequest?
